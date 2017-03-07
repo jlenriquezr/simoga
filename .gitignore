@@ -1,2 +1,3 @@
     # exclude everything except directory
     class/conexion
+	client_secrets.json
