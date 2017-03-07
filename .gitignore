@@ -1,3 +1,2 @@
-    # exclude everything except directory
-    class/conexion
-	client_secrets.json
+class/conexion
+.DS_Store
