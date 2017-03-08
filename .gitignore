@@ -2,7 +2,7 @@
 #node_modules/
 
 # Laravel 4 specific
-class/conexion2.class.php.txt
+/class/conexion.class.php.txt
 #app/storage/
 
 # Laravel 5 & Lumen specific
