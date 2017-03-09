@@ -3,6 +3,8 @@
 
 # Laravel 4 specific
 /class/conexion.class.php.txt
+/tools/xajax_0.5_standard
+/tools/xajax_0.5_standard.zip
 #app/storage/
 
 # Laravel 5 & Lumen specific
