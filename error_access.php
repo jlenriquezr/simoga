@@ -1,0 +1,1 @@
+Su sesión ha caducado, vuelva a iniciar sesión.
