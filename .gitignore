@@ -2,6 +2,7 @@
 #node_modules/
 
 # Exclusiones de directorio
+/.idea
 /class/conexion.class.php.txt
 /tools/xajax
 /tools/xajax_0.5_standard
